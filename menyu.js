@@ -1,0 +1,6 @@
+var a=prompt("Sulu yemek yoxsa quru?")
+    alert(b)
+var b=prompt("Merci yoxsa xas?")
+    alert(c)
+var c=prompt("Isti yoxsa otaq tempraturu?")
+    alert("Nus olsun")
